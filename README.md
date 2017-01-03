@@ -1,2 +1,15 @@
 # Social Media Data Harvesting
-Social Media Data Harvesting examples
+
+These notebooks are just for data collection.
+How to extract useful knowledge from social media data?
+useful = actionable
+Examples
+identifying influencers
+Text mining
+Graph mining
+Process
+Authentication
+Data collection
+Data cleaning and preprocessing
+Modeling and analysis
+Presentation of the results
