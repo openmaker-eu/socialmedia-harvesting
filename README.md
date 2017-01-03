@@ -6,9 +6,9 @@ useful = actionable<br>
 <br>
 <h1>Examples</h1>
 <li>identifying influencers</li><br>
-<b>Text mining</b><br>
-<b>Graph mining</b><br>
-<b>Process</b>
+<h2>Text mining</h2><br>
+<h2>Graph mining</h2><br>
+<h1>Process</h1>
 <ol>
 <li>Authentication</li>
 <li>Data collection</li>
