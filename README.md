@@ -1,8 +1,8 @@
 # Social Media Data Harvesting
 
-These notebooks are just for data collection.<br>
-How to extract useful knowledge from social media data?
-useful = actionable
+These notebooks are just for <b>data collection.</b><br>
+How to extract useful knowledge from social media data?<br>
+useful = actionable<br>
 Examples
 identifying influencers
 Text mining
