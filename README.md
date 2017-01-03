@@ -18,8 +18,8 @@ useful = actionable<br>
 </ol>
 <h1>Concepts</h1>
 <ol>
-<li>User Profile: Fundemental info about a user like name, country, photo.</li>
-<li>Friends: People in user's contact list</li>
+<li>User Profile: Basic info about a user like name, location, photo.</li>
+<li>Friends: A user's network which consists of other users</li>
 <li>User posts: Contents created by a user.</li>
 <li>Page: Online places created with aim of sharing informative contents about specific topics by admins.</li>
 <li>Group: Online places created with aim of increasing interaction between people who have some common interests.</li>
