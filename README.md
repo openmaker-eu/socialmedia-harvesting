@@ -1,6 +1,6 @@
 # Social Media Data Harvesting
 
-These notebooks are just for data collection.
+These notebooks are just for data collection.<br>
 How to extract useful knowledge from social media data?
 useful = actionable
 Examples
