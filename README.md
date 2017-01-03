@@ -3,8 +3,9 @@
 These notebooks are just for <b>data collection.</b><br>
 How to extract useful knowledge from social media data?<br>
 useful = actionable<br>
-Examples
-identifying influencers
+<br>
+<b>Examples</b><br>
+<li>identifying influencers</li>
 Text mining
 Graph mining
 Process
