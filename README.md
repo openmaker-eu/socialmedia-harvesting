@@ -18,11 +18,11 @@ useful = actionable<br>
 </ol>
 <h1>Concepts</h1>
 <ol>
-<li>User Profile</li>
-<li>Friends</li>
-<li>User posts</li>
-<li>Page</li>
-<li>Group</li>
-<li>Search</li>
-<li>Stream</li>
+<li>User Profile: Fundemental info about a user like name, country, photo.</li>
+<li>Friends: People in user's contact list</li>
+<li>User posts: Contents created by a user.</li>
+<li>Page: Online places created with aim of sharing informative contents about specific topics by admins.</li>
+<li>Group: Online places created with aim of increasing interaction between people who have some common interests.</li>
+<li>Search: Function to find objects, users, or posts with some key words.</li>
+<li>Stream: Function which enables developers to reach streaming data.</li>
 </ol>
