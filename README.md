@@ -16,3 +16,13 @@ useful = actionable<br>
 <li>Modeling and analysis</li>
 <li>Presentation of the results</li>
 </ol>
+<h1>Concepts</h1>
+<ol>
+<li>User Profile</li>
+<li>Friends</li>
+<li>User posts</li>
+<li>Page</li>
+<li>Group</li>
+<li>Search</li>
+<li>Stream</li>
+</ol>
