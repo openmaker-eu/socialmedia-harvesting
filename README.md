@@ -1,28 +1,11 @@
-# Social Media Data Harvesting
+# Social Media Data Collection
 
-These notebooks are just for <b>data collection.</b><br>
-How to extract useful knowledge from social media data?<br>
-useful = actionable<br>
-<br>
-<h1>Examples</h1>
-<li>identifying influencers</li><br>
-<h2>Text mining</h2><br>
-<h2>Graph mining</h2><br>
-<h1>Process</h1>
-<ol>
-<li>Authentication</li>
-<li>Data collection</li>
-<li>Data cleaning and preprocessing</li>
-<li>Modeling and analysis</li>
-<li>Presentation of the results</li>
-</ol>
-<h1>Concepts</h1>
-<ol>
-<li>User Profile: Basic info about a user like name, location, photo.</li>
-<li>Friends: A user's network which consists of other users</li>
-<li>User posts: Contents created by a user.</li>
-<li>Page: Online places created with aim of sharing informative contents about specific topics by admins.</li>
-<li>Group: Online places created with aim of increasing interaction between people who have some common interests.</li>
-<li>Search: Function to find objects, users, or posts with some key words.</li>
-<li>Stream: Function which enables developers to reach streaming data.</li>
-</ol>
+There is a huge potential in mining *big* social media data and **data collection** is the first step for data mining projects.
+
+Even though Social Media Platforms publishes public APIs and document them; it takes time / effort to get necessary data for starting the analysis phase of a data mining project.
+
+In this repo, we share our experience in collecting data from various sources.
+
+- [Introduction to Social Media Authorization]()
+- [Twitter Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Twitter.ipynb)
+- [Facebook Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Facebook.ipynb)
