@@ -6,6 +6,6 @@ Even though Social Media Platforms publishes public APIs and document them; it t
 
 In this repo, we share our experience in collecting data from various sources.
 
-- [Introduction to Social Media Authorization]()
+- [Introduction to Social Media Authorization](https://github.com/openmaker-eu/socialmedia/blob/master/Introduction%2Bto%2BSocial%2BMedia%2BPlatform%2BAuthorization.ipynb)
 - [Twitter Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Twitter.ipynb)
 - [Facebook Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Facebook.ipynb)
