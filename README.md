@@ -9,6 +9,7 @@ In this repo, we share our experience in collecting data from various sources.
 - [Introduction to Social Media Authorization](https://github.com/openmaker-eu/socialmedia/blob/master/Introduction%2Bto%2BSocial%2BMedia%2BPlatform%2BAuthorization.ipynb)
 - [Twitter Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Twitter.ipynb)
 - [Facebook Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Facebook.ipynb)
+- [Flickr Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Flickr.ipynb)
 
 
 OpenMaker project is being executed by the support of European Union with aim of accelerating the collaboration between makers and manufacturers. As a part of this project, Boğaziçi University is fetching data from social media platforms to detect dependencies and relations in this big data. 
