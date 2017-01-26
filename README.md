@@ -19,6 +19,8 @@ In this repository, we will share code and documnetation for collecting data fro
 - [Facebook Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Facebook.ipynb)
 - [Linkedin Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Linkedin.ipynb)
 - [Flickr Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Flickr.ipynb)
+- [Instagram Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Instagram.ipynb)
+- [Youtube Data Collection](http://nbviewer.jupyter.org/github/openmaker-eu/socialmedia/blob/master/Youtube.ipynb)
 
 
 
